@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "A MEAN Stack CRUD app for employee management",
+  "description": "MM Ticket",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Digamber",
+  "author": "SAket",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",

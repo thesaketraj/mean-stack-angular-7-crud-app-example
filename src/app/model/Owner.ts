@@ -1,6 +1,6 @@
 export class Owner {
    name: string;
    email: string;
-   designation: string;
+   agentName: string;
    phoneNumber: number;
 }
